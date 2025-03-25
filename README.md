@@ -35,4 +35,4 @@ I'm a dedicated Web3 contributor with extensive experience in testnets, node ope
 #### 📫 Connect
 - Medium: [@cuanaway](https://medium.com/@cuanaway)
 - Twitter: [@testwayyyy](https://twitter.com/testwayyyy)
-- Discord: testway
+- Discord: [testway](https://discordapp.com/users/1002088324053340208)
